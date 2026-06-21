@@ -15,6 +15,7 @@ LeetCode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0001-two-sum/) | undefined |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcohol-101/My-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ LeetCode
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/alcohol-101/My-LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+| [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,12 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0113-path-sum-ii/) | undefined |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 <!---LeetCode Topics End-->
