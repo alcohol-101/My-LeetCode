@@ -8,6 +8,7 @@ LeetCode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0001-two-sum/) | undefined |
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
+| [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,12 @@ LeetCode
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/alcohol-101/My-LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 <!---LeetCode Topics End-->
