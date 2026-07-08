@@ -67,10 +67,12 @@ LeetCode
 | [0102-binary-tree-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
 | [0113-path-sum-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0113-path-sum-ii/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0113-path-sum-ii/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@ LeetCode
 | [0102-binary-tree-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
 | [0113-path-sum-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0113-path-sum-ii/) | undefined |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
