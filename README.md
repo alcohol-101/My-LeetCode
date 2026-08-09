@@ -10,6 +10,7 @@ LeetCode
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
+| [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
@@ -123,4 +124,12 @@ LeetCode
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/alcohol-101/My-LeetCode/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
 <!---LeetCode Topics End-->
