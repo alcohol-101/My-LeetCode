@@ -12,6 +12,17 @@
 class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
-        
+        queue<TreeNode *>a;
+        a.push(root);
+        while(a.front()!=nullptr){
+            a.push(a.front()->left);
+            a.push(a.front()->right);
+            a.pop();
+        }
+        while(a.size()!=0){
+            if(a.front()!=nullptr)return false;
+            a.pop();
+        }
+        return true;
     }
 };
