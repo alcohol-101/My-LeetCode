@@ -28,6 +28,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcohol-101/My-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +137,9 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
+| [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 <!---LeetCode Topics End-->
