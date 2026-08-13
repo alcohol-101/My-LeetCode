@@ -108,6 +108,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
+| [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,4 +158,12 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 <!---LeetCode Topics End-->
