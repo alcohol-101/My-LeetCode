@@ -11,6 +11,7 @@ LeetCode
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
+| [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
@@ -42,6 +43,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
+| [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
@@ -170,4 +172,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
+## 快速排序
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
 <!---LeetCode Topics End-->
