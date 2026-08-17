@@ -8,6 +8,7 @@ LeetCode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0001-two-sum/) | undefined |
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
@@ -158,6 +159,7 @@ LeetCode
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 ## 最近公共祖先
 | Problem Name | Difficulty |
