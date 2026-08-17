@@ -9,6 +9,7 @@ LeetCode
 | [0001-two-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0001-two-sum/) | undefined |
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
+| [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
 | [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
@@ -38,6 +39,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
+| [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ LeetCode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 ## Tree
@@ -167,6 +170,7 @@ LeetCode
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 ## Queue
 | Problem Name | Difficulty |
@@ -176,4 +180,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 <!---LeetCode Topics End-->
