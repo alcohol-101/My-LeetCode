@@ -40,6 +40,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## Sorting
@@ -57,6 +58,7 @@ LeetCode
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/alcohol-101/My-LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
