@@ -26,6 +26,7 @@ LeetCode
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## String
@@ -45,6 +46,7 @@ LeetCode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0151-reverse-words-in-a-string/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## Sorting
@@ -66,6 +68,7 @@ LeetCode
 | [0021-merge-two-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/alcohol-101/My-LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0206-reverse-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0206-reverse-linked-list/) | undefined |
@@ -197,4 +200,5 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
+| [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 <!---LeetCode Topics End-->
