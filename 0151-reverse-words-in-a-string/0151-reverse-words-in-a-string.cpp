@@ -1,30 +1,35 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        auto it=s.find(" ");
-        if(it==string::npos)return s;
-        bool use=false;
-        bool first=true;
-        string tmp="";
-        string result="";
-        for(auto i:s){
-            if(i==' '){
-                if(use){
-                    if(first){
-                        result=tmp;
-                        first=false;
-                    }
-                    else result=tmp +" "+ result;
-                    tmp="";
-                    use=false;
-                }
+        reverse(s.begin(),s.end());
+        int n=s.size();
+        int write=0,read=0;
+        while(read!=n){
+            if(s[read]==' '){
+                read++;
+                continue;
             }
-            else{
-                tmp+=i;
-                use=true;
+            int start=read;
+            while(s[read]!=' '&&read<n){
+                read++;
+            }
+            int end=read-1;
+            if(write!=0){
+                s[write++]=' ';
+            }
+            for(int i=start;i!=end+1;i++){
+                s[write++]=s[i];
             }
         }
-        if(!tmp.empty())result=tmp +" "+ result;
-        return result;
+        
+        s.resize(write);
+        int start=0;
+        for(int i=0;i<=write;i++){
+            if(s[i]==' '||i==write){
+                reverse(s.begin()+start,s.begin()+i);
+                start=i+1;
+            }
+        }
+        return s;
     }
 };
