@@ -19,6 +19,7 @@ LeetCode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
@@ -60,6 +61,7 @@ LeetCode
 | [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0151-reverse-words-in-a-string/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ LeetCode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 ## Binary Search Tree
 | Problem Name | Difficulty |
