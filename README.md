@@ -21,6 +21,7 @@ LeetCode
 | [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0238-product-of-array-except-self](https://github.com/alcohol-101/My-LeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
 ## Hash Table
@@ -158,6 +159,7 @@ LeetCode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/alcohol-101/My-LeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
