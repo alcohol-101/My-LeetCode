@@ -18,6 +18,7 @@ LeetCode
 | [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
@@ -29,6 +30,7 @@ LeetCode
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0049-group-anagrams](https://github.com/alcohol-101/My-LeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
@@ -213,4 +215,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0011-container-with-most-water/) | undefined |
+## Union Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 <!---LeetCode Topics End-->
