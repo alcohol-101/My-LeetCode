@@ -35,6 +35,7 @@ LeetCode
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0049-group-anagrams](https://github.com/alcohol-101/My-LeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
+| [0076-minimum-window-substring](https://github.com/alcohol-101/My-LeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
@@ -48,6 +49,7 @@ LeetCode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcohol-101/My-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0049-group-anagrams](https://github.com/alcohol-101/My-LeetCode/tree/main/0049-group-anagrams/) | undefined |
+| [0076-minimum-window-substring](https://github.com/alcohol-101/My-LeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0151-reverse-words-in-a-string/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
@@ -55,6 +57,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcohol-101/My-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0076-minimum-window-substring](https://github.com/alcohol-101/My-LeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 ## Two Pointers
