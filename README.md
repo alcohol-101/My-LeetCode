@@ -25,6 +25,7 @@ LeetCode
 | [0238-product-of-array-except-self](https://github.com/alcohol-101/My-LeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
+| [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ LeetCode
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+| [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/alcohol-101/My-LeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
+| [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
