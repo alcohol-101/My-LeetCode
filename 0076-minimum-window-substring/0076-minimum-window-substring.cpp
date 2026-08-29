@@ -1,34 +1,41 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char,int> need;
-        for (char c : t) need[c]++;
+        int m=s.size(),n=t.size();
+        if(m<n)return "";
+        unordered_map<char,int>need;
+        for(char c:t)need[c]++;
 
-        unordered_map<char,int> win;
-        int left = 0, matched = 0;
-        int minLen = INT_MAX, start = 0;
+        unordered_map<char,int>win;
+        int l=0,start=0;
+        int minLen=INT_MAX,match=0;
 
-        for (int right = 0; right < s.size(); right++) {
-            char c = s[right];
-            if (need.count(c)) {
-                win[c]++;
-                if (win[c] == need[c]) matched++;
+        for(int r=0;r<m;r++){
+            char x=s[r];
+            if(need.count(x)!=0){
+                win[x]++;
+                if(need[x]==win[x])match++;
             }
-
-            while (matched == (int)need.size()) {
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
+            while(match==need.size()){
+                char b=s[l];
+                if(need.count(b)!=0){
+                    if(need[b]==win[b]){
+                        match--;
+                        win[b]--;
+                        int len=r-l+1;
+                        start=minLen<len?start:l;
+                        minLen=minLen<len?minLen:len;
+                    }
+                    else{
+                        win[b]--;
+                    }
                 }
-                char d = s[left];
-                if (need.count(d)) {
-                    if (win[d] == need[d]) matched--;
-                    win[d]--;
-                }
-                left++;
+                l++;
             }
         }
+        if(minLen==INT_MAX)return "";
+        return s.substr(start,minLen);
 
-        return minLen == INT_MAX ? "" : s.substr(start, minLen);
     }
+    
 };
