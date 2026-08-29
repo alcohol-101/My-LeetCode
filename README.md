@@ -114,6 +114,7 @@ LeetCode
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0101-symmetric-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
@@ -127,6 +128,7 @@ LeetCode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0101-symmetric-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0101-symmetric-tree/) | undefined |
 | [0112-path-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0112-path-sum/) | undefined |
 | [0113-path-sum-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0113-path-sum-ii/) | undefined |
@@ -140,6 +142,7 @@ LeetCode
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0101-symmetric-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
@@ -216,6 +219,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
+| [0094-binary-tree-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Queue
