@@ -22,6 +22,7 @@ LeetCode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
+| [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/alcohol-101/My-LeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
@@ -151,6 +152,7 @@ LeetCode
 | [0112-path-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0112-path-sum/) | undefined |
 | [0113-path-sum-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0113-path-sum-ii/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/alcohol-101/My-LeetCode/tree/main/0199-binary-tree-right-side-view/) | undefined |
+| [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0226-invert-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0226-invert-binary-tree/) | undefined |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | undefined |
@@ -209,6 +211,7 @@ LeetCode
 | [0104-maximum-depth-of-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0112-path-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0112-path-sum/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/alcohol-101/My-LeetCode/tree/main/0199-binary-tree-right-side-view/) | undefined |
+| [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0226-invert-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0226-invert-binary-tree/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
 ## Matrix
@@ -217,6 +220,7 @@ LeetCode
 | [0048-rotate-image](https://github.com/alcohol-101/My-LeetCode/tree/main/0048-rotate-image/) | undefined |
 | [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
+| [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
@@ -277,6 +281,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
