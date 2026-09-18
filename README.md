@@ -10,6 +10,7 @@ LeetCode
 | [0011-container-with-most-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0015-3sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0015-3sum/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0035-search-insert-position](https://github.com/alcohol-101/My-LeetCode/tree/main/0035-search-insert-position/) | undefined |
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0048-rotate-image](https://github.com/alcohol-101/My-LeetCode/tree/main/0048-rotate-image/) | undefined |
@@ -238,6 +239,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0035-search-insert-position](https://github.com/alcohol-101/My-LeetCode/tree/main/0035-search-insert-position/) | undefined |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## 最近公共祖先
