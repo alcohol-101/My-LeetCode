@@ -3,22 +3,13 @@ public:
     int numIslands(vector<vector<char>>& grid) {
         int m=grid.size(),n=grid[0].size();
        
-        bool is_end=false;
         int count=0;
-        while(!is_end){
-            bool used=false;
-            for(int i=0;i<m;i++){
-                if(!used)
-                for(int j=0;j<n;j++){
-                    if(grid[i][j]=='1'){
-                        dr(grid,i,j);
-                        count++;
-                        used=true;
-                        break;
-                    }
-                    if(i==m-1&&j==n-1)is_end=true;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]=='1'){
+                    dr(grid,i,j);
+                    count++;
                 }
-                else break;
             }
         }
         return count;
