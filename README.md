@@ -103,6 +103,7 @@ LeetCode
 | [0002-add-two-numbers](https://github.com/alcohol-101/My-LeetCode/tree/main/0002-add-two-numbers/) | undefined |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
+| [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/alcohol-101/My-LeetCode/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/alcohol-101/My-LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0092-reverse-linked-list-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0092-reverse-linked-list-ii/) | undefined |
@@ -117,6 +118,7 @@ LeetCode
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
 | [0148-sort-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0148-sort-list/) | undefined |
@@ -196,6 +198,7 @@ LeetCode
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 ## Prefix Sum
@@ -296,9 +299,14 @@ LeetCode
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0148-sort-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0148-sort-list/) | undefined |
 ## 树形 DP
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0543-diameter-of-binary-tree/) | undefined |
+## 锦标赛排序
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
 <!---LeetCode Topics End-->
