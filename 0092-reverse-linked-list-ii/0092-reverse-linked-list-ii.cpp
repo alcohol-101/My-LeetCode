@@ -11,40 +11,26 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(left==right)return head;
         ListNode *dum=new ListNode();
         dum->next=head;
         int count=0;
 
-        ListNode *p=new ListNode(),*t=new ListNode();
-        ListNode *tmp=dum;
-        while(tmp!=nullptr){
-            if(count==left-1)p=tmp;
-            
-            tmp=tmp->next;
+        ListNode*p=dum;
+        while(count!=left-1){
             ++count;
-
-            if(count==right+1)t=tmp;
+            p=p->next;
         }
 
-        fz(p,t);
-        
+        ListNode *cur=p->next;
+        for(int i=0;i<right-left;i++){
+            ListNode*nxt=cur->next;
+            cur->next=nxt->next;
+            nxt->next=p->next;
+            p->next=nxt;
+        }
+
         return dum->next;
     }
     
-    void fz(ListNode* prev, ListNode* tail) {
-       ListNode *first=prev->next;
-       if(first==tail)return;
-
-       ListNode *pre=prev;
-       ListNode *cur=pre->next;
-       while(cur!=tail){
-         ListNode *nex=cur->next;
-         cur->next=pre;
-         pre=cur;
-         cur=nex;
-       }
-       prev->next=pre;
-       first->next=tail;
-    }
+    
 };
