@@ -105,6 +105,7 @@ LeetCode
 | [0021-merge-two-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/alcohol-101/My-LeetCode/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/alcohol-101/My-LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+| [0092-reverse-linked-list-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0092-reverse-linked-list-ii/) | undefined |
 | [0138-copy-list-with-random-pointer](https://github.com/alcohol-101/My-LeetCode/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
