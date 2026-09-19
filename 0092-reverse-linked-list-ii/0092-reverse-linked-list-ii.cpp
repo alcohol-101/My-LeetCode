@@ -1,4 +1,4 @@
-/**
+ /**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -16,17 +16,15 @@ public:
         dum->next=head;
         int count=0;
 
-        ListNode*p=dum;
-        while(count!=left-1){
-            p=p->next;
-            count++;
-        }
-
-        count=1;
-        ListNode*t=head;
-        while(count!=right+1){
+        ListNode *p=new ListNode(),*t=new ListNode();
+        ListNode *tmp=dum;
+        while(tmp!=nullptr){
+            if(count==left-1)p=tmp;
+            
+            tmp=tmp->next;
             ++count;
-            t=t->next;
+
+            if(count==right+1)t=tmp;
         }
 
         fz(p,t);
