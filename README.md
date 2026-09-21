@@ -30,6 +30,7 @@ LeetCode
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
 ## Hash Table
@@ -48,6 +49,7 @@ LeetCode
 | [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## String
@@ -89,6 +91,7 @@ LeetCode
 | [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
 | [0148-sort-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0148-sort-list/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@ LeetCode
 | [0148-sort-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0148-sort-list/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,12 +207,14 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,4 +325,12 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 <!---LeetCode Topics End-->
