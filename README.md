@@ -83,6 +83,7 @@ LeetCode
 | [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
+| [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ LeetCode
 | [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
 | [0148-sort-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0148-sort-list/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
@@ -199,6 +201,7 @@ LeetCode
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
+| [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +217,7 @@ LeetCode
 | [0023-merge-k-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
+| [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -333,4 +337,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 <!---LeetCode Topics End-->
