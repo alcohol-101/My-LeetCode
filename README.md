@@ -17,6 +17,7 @@ LeetCode
 | [0049-group-anagrams](https://github.com/alcohol-101/My-LeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0054-spiral-matrix](https://github.com/alcohol-101/My-LeetCode/tree/main/0054-spiral-matrix/) | undefined |
+| [0055-jump-game](https://github.com/alcohol-101/My-LeetCode/tree/main/0055-jump-game/) | undefined |
 | [0056-merge-intervals](https://github.com/alcohol-101/My-LeetCode/tree/main/0056-merge-intervals/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | undefined |
@@ -138,6 +139,7 @@ LeetCode
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
+| [0055-jump-game](https://github.com/alcohol-101/My-LeetCode/tree/main/0055-jump-game/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 ## Tree
 | Problem Name | Difficulty |
@@ -303,6 +305,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0011-container-with-most-water/) | undefined |
+| [0055-jump-game](https://github.com/alcohol-101/My-LeetCode/tree/main/0055-jump-game/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
