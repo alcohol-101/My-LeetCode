@@ -2,22 +2,24 @@ class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         vector<int>ans;
-        map<int,int>ans1;
-        multimap<int,int,greater<int>>ans2;
+        ans.reserve(k);
+        unordered_map<int,int>ans1;
         for(auto i:nums){
             ans1[i]++;
         }
-        int count=0;
+
+        int n=nums.size();
+        vector<vector<int>>tong(n+1);
         for(auto &[k,v]:ans1){
-            ans2.insert({v,k});
+            tong[v].push_back(k);
         }
-        for(auto &[key,val]:ans2){
-            if(count<k){
+        for(int i=n;i>=1&&ans.size()<k;i--){
+            for(auto val:tong[i]){
                 ans.push_back(val);
-                count++;
+                if(ans.size()==k)break;
             }
-            else break;
         }
+
         return ans;
     }
 };
