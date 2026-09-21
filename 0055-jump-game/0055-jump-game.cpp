@@ -1,24 +1,12 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        if(0+nums[0]>=nums.size()-1)return true;
-        int now=0;
-        while(now<nums.size()-1){
-            
-            bool has_td=false;
-            for(int i=1;i<=nums[now];i++){
-                if(nums[now]-i<nums[now+i]){
-                    now=now+i;
-                    if(now+nums[now]>=nums.size()-1)return true;
-                    has_td=true;
-                    break;
-                }
-            }  
-            if(!has_td){
-                if(now+nums[now]>=nums.size()-1)return true;
-                else return false;
-            }
+        int maxReach=0;
+        for(int i=0;i<nums.size();i++){
+            if(i>maxReach)return false;
+            maxReach=max(maxReach,i+nums[i]);
+            if(maxReach>=nums.size()-1)return true;
         }
-        return true;
+        return true;//理论上不会达，但是编译器不知道啊
     }
 };
