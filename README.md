@@ -145,6 +145,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0101-symmetric-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
@@ -164,6 +165,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0101-symmetric-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0112-path-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0112-path-sum/) | undefined |
@@ -183,6 +185,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0101-symmetric-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/alcohol-101/My-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | undefined |
@@ -264,6 +267,7 @@ LeetCode
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0035-search-insert-position](https://github.com/alcohol-101/My-LeetCode/tree/main/0035-search-insert-position/) | undefined |
+| [0098-validate-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
