@@ -13,6 +13,7 @@ LeetCode
 | [0035-search-insert-position](https://github.com/alcohol-101/My-LeetCode/tree/main/0035-search-insert-position/) | undefined |
 | [0041-first-missing-positive](https://github.com/alcohol-101/My-LeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
+| [0045-jump-game-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0048-rotate-image](https://github.com/alcohol-101/My-LeetCode/tree/main/0048-rotate-image/) | undefined |
 | [0049-group-anagrams](https://github.com/alcohol-101/My-LeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
@@ -138,6 +139,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
+| [0045-jump-game-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0055-jump-game](https://github.com/alcohol-101/My-LeetCode/tree/main/0055-jump-game/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
@@ -309,6 +311,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0011-container-with-most-water/) | undefined |
+| [0045-jump-game-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/alcohol-101/My-LeetCode/tree/main/0055-jump-game/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
