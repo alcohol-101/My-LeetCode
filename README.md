@@ -34,6 +34,7 @@ LeetCode
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
+| [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -244,6 +245,7 @@ LeetCode
 | [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0226-invert-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0226-invert-binary-tree/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
+| [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ LeetCode
 | [0073-set-matrix-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+| [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
