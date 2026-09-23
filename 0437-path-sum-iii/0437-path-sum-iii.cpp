@@ -10,21 +10,27 @@
  * };
  */
 class Solution {
+    int target;
+    unordered_map<long long int,int>prefix;
 public:
     int pathSum(TreeNode* root, int targetSum) {
         if(!root)return 0;
-        int count=0;
-        long long int sum=0;
-        bl(root,count,sum,targetSum);
-        count+=pathSum(root->left,targetSum)+pathSum(root->right,targetSum);
-        return count;
+        target=targetSum;
+        prefix[0]=1;
+        
+        return dfs(root,0);
     }
-    void bl(TreeNode*root,int &count,long long int &sum,int targetSum){
-        if(root==nullptr)return;
-        sum+=root->val;
-        if(targetSum==sum)++count;
-        bl(root->left,count,sum,targetSum);
-        bl(root->right,count,sum,targetSum);
-        sum-=root->val;
+    int dfs(TreeNode*root,long long int curSum){
+        int count=0;
+        if(root==nullptr)return count;
+        curSum+=root->val;
+
+        count+=prefix[curSum-target];
+        prefix[curSum]++;
+        count+=dfs(root->left,curSum);
+        count+=dfs(root->right,curSum);
+        prefix[curSum]--;
+
+        return count;
     }
 };
