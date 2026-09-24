@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.cn/problems/check-if-word-is-valid-after-substitutions">1045. undefined</a></h2><h3>undefined</h3><hr>undefined
