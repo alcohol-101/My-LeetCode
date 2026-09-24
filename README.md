@@ -64,6 +64,7 @@ LeetCode
 | [0151-reverse-words-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0151-reverse-words-in-a-string/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/alcohol-101/My-LeetCode/tree/main/1045-check-if-word-is-valid-after-substitutions/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +300,7 @@ LeetCode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/alcohol-101/My-LeetCode/tree/main/1045-check-if-word-is-valid-after-substitutions/) | undefined |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
