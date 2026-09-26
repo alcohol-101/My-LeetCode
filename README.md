@@ -60,6 +60,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcohol-101/My-LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0010-regular-expression-matching](https://github.com/alcohol-101/My-LeetCode/tree/main/0010-regular-expression-matching/) | undefined |
 | [0044-wildcard-matching](https://github.com/alcohol-101/My-LeetCode/tree/main/0044-wildcard-matching/) | undefined |
 | [0049-group-anagrams](https://github.com/alcohol-101/My-LeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0076-minimum-window-substring](https://github.com/alcohol-101/My-LeetCode/tree/main/0076-minimum-window-substring/) | undefined |
@@ -105,6 +106,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/alcohol-101/My-LeetCode/tree/main/0002-add-two-numbers/) | undefined |
+| [0010-regular-expression-matching](https://github.com/alcohol-101/My-LeetCode/tree/main/0010-regular-expression-matching/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/alcohol-101/My-LeetCode/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/alcohol-101/My-LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
@@ -144,6 +146,7 @@ LeetCode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/alcohol-101/My-LeetCode/tree/main/0010-regular-expression-matching/) | undefined |
 | [0042-trapping-rain-water](https://github.com/alcohol-101/My-LeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0044-wildcard-matching](https://github.com/alcohol-101/My-LeetCode/tree/main/0044-wildcard-matching/) | undefined |
 | [0045-jump-game-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0045-jump-game-ii/) | undefined |
