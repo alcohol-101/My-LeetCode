@@ -68,6 +68,7 @@ LeetCode
 | [0290-word-pattern](https://github.com/alcohol-101/My-LeetCode/tree/main/0290-word-pattern/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+| [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/alcohol-101/My-LeetCode/tree/main/1045-check-if-word-is-valid-after-substitutions/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ LeetCode
 | [0234-palindrome-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
+| [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@ LeetCode
 | [0048-rotate-image](https://github.com/alcohol-101/My-LeetCode/tree/main/0048-rotate-image/) | undefined |
 | [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
+| [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
