@@ -1,34 +1,61 @@
 class Solution {
 public:
+    int int_to_char(int n,char d[]){
+        int i=11;
+        while(n!=0){
+            int x=n%10;
+            n=n/10;
+            d[i]='0'+x;
+            i--;
+        }
+        return i;
+    }
+
+    int char_to_int(char d[],int max_i){
+        long long tmp=0;
+        int i=max_i+1;
+        while(i<12){
+            tmp=tmp*10+d[i]-'0';
+            i++;
+        }
+        if(tmp>INT_MAX)return -1;
+        return (int)tmp;
+    }
+
+    template <typename T>
+    void my_swap(T &a,T &b){
+        T c=b;
+        b=a;
+        a=c;
+    }
+
+    void mysort(char d[],int l,int r){
+        for(int i=l;i<r;i++){
+            for(int j=i+1;j<=r;j++){
+                if(d[i]>d[j])my_swap(d[i],d[j]);
+            }
+        }
+    }
+
     int nextGreaterElement(int n) {
-        vector<int>d;
-        int a=n;
-        while(a!=0){
-            int tmp=a%10;
-            a=a/10;
-            d.insert(d.begin(),tmp);
-        }
-        int j=-1;
-        for(int i=d.size()-2;i>=0;i--){
-            if(d[i]<d[i+1]){
-                j=i;
+        char d[12];
+        int max_i=int_to_char(n,d);
+        int b=-1;
+        for(int a=10;a>max_i;a--){
+            if(d[a]<d[a+1]){
+                b=a;
                 break;
             }
         }
-        if(j==-1)return j;
-        for(int i=d.size()-1;i>j;i--){
-            if(d[j]<d[i]){
-                swap(d[i],d[j]);
+        if(b==-1)return -1;
+        for(int a=11;a>b;a--){
+            if(d[a]>d[b]){
+                my_swap(d[a],d[b]);
                 break;
             }
         }
-        sort(d.begin()+j+1,d.end());
-        string re="";
-        for(auto x:d){
-            re+=to_string(x); 
-        }
-        long long r=stoll(re);
-        if(r>INT_MAX)return -1;
-        return int(r);
+        mysort(d,b+1,11);
+        int re=char_to_int(d,max_i);
+        return re;
     }
 };
