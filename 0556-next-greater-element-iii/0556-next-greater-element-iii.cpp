@@ -30,10 +30,10 @@ public:
     }
 
     void mysort(char d[],int l,int r){
-        for(int i=l;i<r;i++){
-            for(int j=i+1;j<=r;j++){
-                if(d[i]>d[j])my_swap(d[i],d[j]);
-            }
+        while(l<r){
+            my_swap(d[l],d[r]);
+            l++;
+            r--;
         }
     }
 
