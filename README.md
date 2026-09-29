@@ -34,6 +34,7 @@ LeetCode
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
+| [0895-shortest-path-to-get-all-keys](https://github.com/alcohol-101/My-LeetCode/tree/main/0895-shortest-path-to-get-all-keys/) | undefined |
 | [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
@@ -268,6 +269,7 @@ LeetCode
 | [0199-binary-tree-right-side-view](https://github.com/alcohol-101/My-LeetCode/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0226-invert-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0226-invert-binary-tree/) | undefined |
+| [0895-shortest-path-to-get-all-keys](https://github.com/alcohol-101/My-LeetCode/tree/main/0895-shortest-path-to-get-all-keys/) | undefined |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0998-check-completeness-of-a-binary-tree/) | undefined |
 | [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 ## Matrix
@@ -278,6 +280,7 @@ LeetCode
 | [0073-set-matrix-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0200-number-of-islands](https://github.com/alcohol-101/My-LeetCode/tree/main/0200-number-of-islands/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+| [0895-shortest-path-to-get-all-keys](https://github.com/alcohol-101/My-LeetCode/tree/main/0895-shortest-path-to-get-all-keys/) | undefined |
 | [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
@@ -384,4 +387,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0895-shortest-path-to-get-all-keys](https://github.com/alcohol-101/My-LeetCode/tree/main/0895-shortest-path-to-get-all-keys/) | undefined |
 <!---LeetCode Topics End-->
