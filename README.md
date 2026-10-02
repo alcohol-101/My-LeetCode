@@ -55,6 +55,7 @@ LeetCode
 | [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/alcohol-101/My-LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0208-implement-trie-prefix-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0290-word-pattern](https://github.com/alcohol-101/My-LeetCode/tree/main/0290-word-pattern/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
@@ -69,6 +70,7 @@ LeetCode
 | [0049-group-anagrams](https://github.com/alcohol-101/My-LeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0076-minimum-window-substring](https://github.com/alcohol-101/My-LeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0151-reverse-words-in-a-string/) | undefined |
+| [0208-implement-trie-prefix-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0290-word-pattern](https://github.com/alcohol-101/My-LeetCode/tree/main/0290-word-pattern/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
@@ -238,6 +240,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/alcohol-101/My-LeetCode/tree/main/0146-lru-cache/) | undefined |
+| [0208-implement-trie-prefix-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 ## Doubly-Linked List
@@ -410,4 +413,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/alcohol-101/My-LeetCode/tree/main/0207-course-schedule/) | undefined |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 <!---LeetCode Topics End-->
