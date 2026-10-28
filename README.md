@@ -76,6 +76,7 @@ LeetCode
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/alcohol-101/My-LeetCode/tree/main/1045-check-if-word-is-valid-after-substitutions/) | undefined |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alcohol-101/My-LeetCode/tree/main/1298-reverse-substrings-between-each-pair-of-parentheses/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@ LeetCode
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/alcohol-101/My-LeetCode/tree/main/1045-check-if-word-is-valid-after-substitutions/) | undefined |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alcohol-101/My-LeetCode/tree/main/1298-reverse-substrings-between-each-pair-of-parentheses/) | undefined |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,4 +419,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0208-implement-trie-prefix-tree/) | undefined |
+## 括号序列
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alcohol-101/My-LeetCode/tree/main/1298-reverse-substrings-between-each-pair-of-parentheses/) | undefined |
 <!---LeetCode Topics End-->
