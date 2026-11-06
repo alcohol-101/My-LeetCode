@@ -38,6 +38,7 @@ LeetCode
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/alcohol-101/My-LeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0895-shortest-path-to-get-all-keys](https://github.com/alcohol-101/My-LeetCode/tree/main/0895-shortest-path-to-get-all-keys/) | undefined |
+| [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 | [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
@@ -159,6 +160,7 @@ LeetCode
 | [0215-kth-largest-element-in-an-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
+| [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@ LeetCode
 | [0124-binary-tree-maximum-path-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | undefined |
 | [0221-maximal-square](https://github.com/alcohol-101/My-LeetCode/tree/main/0221-maximal-square/) | undefined |
 | [0322-coin-change](https://github.com/alcohol-101/My-LeetCode/tree/main/0322-coin-change/) | undefined |
+| [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
 ## Tree
@@ -351,6 +354,7 @@ LeetCode
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
+| [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 ## 快速排序
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +384,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
+| [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 ## 区间最值查询
 | Problem Name | Difficulty |
 | ------- | ------- |
