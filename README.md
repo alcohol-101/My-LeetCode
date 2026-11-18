@@ -43,6 +43,7 @@ LeetCode
 | [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 | [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/alcohol-101/My-LeetCode/tree/main/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/alcohol-101/My-LeetCode/tree/main/1878-check-if-array-is-sorted-and-rotated/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
@@ -94,6 +95,7 @@ LeetCode
 | [0076-minimum-window-substring](https://github.com/alcohol-101/My-LeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/alcohol-101/My-LeetCode/tree/main/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@ LeetCode
 | [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/alcohol-101/My-LeetCode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/alcohol-101/My-LeetCode/tree/main/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +371,7 @@ LeetCode
 | [0232-implement-queue-using-stacks](https://github.com/alcohol-101/My-LeetCode/tree/main/0232-implement-queue-using-stacks/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/alcohol-101/My-LeetCode/tree/main/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | undefined |
 ## 快速排序
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +403,7 @@ LeetCode
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/alcohol-101/My-LeetCode/tree/main/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | undefined |
 ## 区间最值查询
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,4 +484,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/alcohol-101/My-LeetCode/tree/main/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | undefined |
 <!---LeetCode Topics End-->
