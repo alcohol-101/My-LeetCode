@@ -78,6 +78,7 @@ LeetCode
 | [0208-implement-trie-prefix-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0208-implement-trie-prefix-tree/) | undefined |
 | [0290-word-pattern](https://github.com/alcohol-101/My-LeetCode/tree/main/0290-word-pattern/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/alcohol-101/My-LeetCode/tree/main/0332-reconstruct-itinerary/) | undefined |
+| [0392-is-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0392-is-subsequence/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/alcohol-101/My-LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
@@ -108,6 +109,7 @@ LeetCode
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
+| [0392-is-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0392-is-subsequence/) | undefined |
 | [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -176,6 +178,7 @@ LeetCode
 | [0124-binary-tree-maximum-path-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | undefined |
 | [0221-maximal-square](https://github.com/alcohol-101/My-LeetCode/tree/main/0221-maximal-square/) | undefined |
 | [0322-coin-change](https://github.com/alcohol-101/My-LeetCode/tree/main/0322-coin-change/) | undefined |
+| [0392-is-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0392-is-subsequence/) | undefined |
 | [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
