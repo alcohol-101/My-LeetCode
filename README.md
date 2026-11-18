@@ -33,6 +33,7 @@ LeetCode
 | [0239-sliding-window-maximum](https://github.com/alcohol-101/My-LeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0322-coin-change](https://github.com/alcohol-101/My-LeetCode/tree/main/0322-coin-change/) | undefined |
 | [0332-reconstruct-itinerary](https://github.com/alcohol-101/My-LeetCode/tree/main/0332-reconstruct-itinerary/) | undefined |
 | [0347-top-k-frequent-elements](https://github.com/alcohol-101/My-LeetCode/tree/main/0347-top-k-frequent-elements/) | undefined |
@@ -105,6 +106,7 @@ LeetCode
 | [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/alcohol-101/My-LeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0283-move-zeroes](https://github.com/alcohol-101/My-LeetCode/tree/main/0283-move-zeroes/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0295-find-median-from-data-stream](https://github.com/alcohol-101/My-LeetCode/tree/main/0295-find-median-from-data-stream/) | undefined |
 | [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 ## Sorting
@@ -329,6 +331,7 @@ LeetCode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alcohol-101/My-LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/alcohol-101/My-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
 ## 最近公共祖先
@@ -368,6 +371,7 @@ LeetCode
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/alcohol-101/My-LeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,6 +422,7 @@ LeetCode
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
 | [0895-shortest-path-to-get-all-keys](https://github.com/alcohol-101/My-LeetCode/tree/main/0895-shortest-path-to-get-all-keys/) | undefined |
 ## Graph
 | Problem Name | Difficulty |
@@ -460,4 +465,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/alcohol-101/My-LeetCode/tree/main/0322-coin-change/) | undefined |
+## 抽屉原理
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/alcohol-101/My-LeetCode/tree/main/0287-find-the-duplicate-number/) | undefined |
 <!---LeetCode Topics End-->
