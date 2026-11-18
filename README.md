@@ -44,6 +44,7 @@ LeetCode
 | [1036-rotting-oranges](https://github.com/alcohol-101/My-LeetCode/tree/main/1036-rotting-oranges/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/alcohol-101/My-LeetCode/tree/main/1878-check-if-array-is-sorted-and-rotated/) | undefined |
 | [2714-left-and-right-sum-differences](https://github.com/alcohol-101/My-LeetCode/tree/main/2714-left-and-right-sum-differences/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
