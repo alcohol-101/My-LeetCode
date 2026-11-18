@@ -182,6 +182,7 @@ LeetCode
 | [0198-house-robber](https://github.com/alcohol-101/My-LeetCode/tree/main/0198-house-robber/) | undefined |
 | [0221-maximal-square](https://github.com/alcohol-101/My-LeetCode/tree/main/0221-maximal-square/) | undefined |
 | [0322-coin-change](https://github.com/alcohol-101/My-LeetCode/tree/main/0322-coin-change/) | undefined |
+| [0343-integer-break](https://github.com/alcohol-101/My-LeetCode/tree/main/0343-integer-break/) | undefined |
 | [0392-is-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0392-is-subsequence/) | undefined |
 | [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
@@ -326,6 +327,7 @@ LeetCode
 | [0002-add-two-numbers](https://github.com/alcohol-101/My-LeetCode/tree/main/0002-add-two-numbers/) | undefined |
 | [0048-rotate-image](https://github.com/alcohol-101/My-LeetCode/tree/main/0048-rotate-image/) | undefined |
 | [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
+| [0343-integer-break](https://github.com/alcohol-101/My-LeetCode/tree/main/0343-integer-break/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
 | [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 ## Binary Search Tree
