@@ -180,6 +180,7 @@ LeetCode
 | [0045-jump-game-ii](https://github.com/alcohol-101/My-LeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0053-maximum-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0055-jump-game](https://github.com/alcohol-101/My-LeetCode/tree/main/0055-jump-game/) | undefined |
+| [0070-climbing-stairs](https://github.com/alcohol-101/My-LeetCode/tree/main/0070-climbing-stairs/) | undefined |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alcohol-101/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0124-binary-tree-maximum-path-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | undefined |
 | [0198-house-robber](https://github.com/alcohol-101/My-LeetCode/tree/main/0198-house-robber/) | undefined |
@@ -330,6 +331,7 @@ LeetCode
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/alcohol-101/My-LeetCode/tree/main/0002-add-two-numbers/) | undefined |
 | [0048-rotate-image](https://github.com/alcohol-101/My-LeetCode/tree/main/0048-rotate-image/) | undefined |
+| [0070-climbing-stairs](https://github.com/alcohol-101/My-LeetCode/tree/main/0070-climbing-stairs/) | undefined |
 | [0189-rotate-array](https://github.com/alcohol-101/My-LeetCode/tree/main/0189-rotate-array/) | undefined |
 | [0343-integer-break](https://github.com/alcohol-101/My-LeetCode/tree/main/0343-integer-break/) | undefined |
 | [0415-add-strings](https://github.com/alcohol-101/My-LeetCode/tree/main/0415-add-strings/) | undefined |
@@ -488,4 +490,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/alcohol-101/My-LeetCode/tree/main/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | undefined |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/alcohol-101/My-LeetCode/tree/main/0070-climbing-stairs/) | undefined |
 <!---LeetCode Topics End-->
