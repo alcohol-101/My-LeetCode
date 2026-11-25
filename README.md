@@ -87,6 +87,7 @@ LeetCode
 | [0556-next-greater-element-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0556-next-greater-element-iii/) | undefined |
 | [0557-reverse-words-in-a-string-iii](https://github.com/alcohol-101/My-LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | undefined |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/alcohol-101/My-LeetCode/tree/main/1045-check-if-word-is-valid-after-substitutions/) | undefined |
+| [1250-longest-common-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/alcohol-101/My-LeetCode/tree/main/1298-reverse-substrings-between-each-pair-of-parentheses/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ LeetCode
 | [0343-integer-break](https://github.com/alcohol-101/My-LeetCode/tree/main/0343-integer-break/) | undefined |
 | [0392-is-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/0392-is-subsequence/) | undefined |
 | [0954-maximum-sum-circular-subarray](https://github.com/alcohol-101/My-LeetCode/tree/main/0954-maximum-sum-circular-subarray/) | undefined |
+| [1250-longest-common-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/alcohol-101/My-LeetCode/tree/main/1352-maximum-profit-in-job-scheduling/) | undefined |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/alcohol-101/My-LeetCode/tree/main/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | undefined |
 ## Tree
@@ -494,4 +496,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/alcohol-101/My-LeetCode/tree/main/0070-climbing-stairs/) | undefined |
+## 最长公共子序列
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1250-longest-common-subsequence](https://github.com/alcohol-101/My-LeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
 <!---LeetCode Topics End-->
